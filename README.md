@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Meu nome é Carlos Oliveira, tenho 21 anos sou de Guaratinguetá-SP .<br><br>- 📚 Atualmente sou estudante de análises e desenvolvimento de sistemas e estou no 4° semestre.<br>- ⚡ No meu tempo livre costumo jogar, escutar músicas e sair com meus amigos.</p>
+<p align="left">Meu nome é Carlos Oliveira, tenho 21 anos sou de Guaratinguetá-SP .<br><br>- 📚 Atualmente sou estudante de análises e desenvolvimento de sistemas e estou no 5° semestre.<br>- ⚡ No meu tempo livre costumo jogar, escutar músicas e sair com meus amigos.</p>
 
 ###
 
